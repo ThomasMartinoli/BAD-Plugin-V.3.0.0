@@ -1,5 +1,5 @@
 🔧 <b>BAD PLUGIN 3.0.0</b> - Key Features
-
+<br>
 The BAD 3.0.0 plugin introduces new functionalities over BAD 2.0.0 to improve the workflow of burned area detection and validation. These include:
 
 🛰️ Added the possibility to search and download Sentinel-2 L2A, both single images and mosaicking of more images, directly from the plugin.
@@ -8,10 +8,9 @@ The BAD 3.0.0 plugin introduces new functionalities over BAD 2.0.0 to improve th
 
 📊 Expanded the customization of OWA parameters.
 
-
-
+<br>
 🔧 <b>BAD PLUGIN 2.0.0</b> - Key Features
-
+<br>
 The BAD 2.0.0 plugin introduces major enhancements over the original version to streamline the workflow of burned area detection and validation. These include:
 
 🎯 SCL Band Masking
