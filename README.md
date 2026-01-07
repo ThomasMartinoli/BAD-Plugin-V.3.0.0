@@ -13,7 +13,7 @@ The BAD 3.0.0 plugin introduces new functionalities over BAD 2.0.0 to improve th
 <br>
 The BAD 2.0.0 plugin introduces major enhancements over the original version to streamline the workflow of burned area detection and validation. These include:
 
-🎯 SCL Band Masking
+<br>🎯 SCL Band Masking
 Perform masking of unwanted Scene Classification Layer (SCL) classes from Sentinel-2 imagery for both pre-fire and post-fire datasets. This removes noise (e.g., clouds, water, snow) and improves classification accuracy.
 
 🛰️ OWA Layer Preview
