@@ -1,4 +1,5 @@
 🔧 BAD PLUGIN 2.0 - Key Features
+
 The BAD 2.0 plugin introduces major enhancements over the original version to streamline the workflow of burned area detection and validation. These include:
 
 🎯 SCL Band Masking
