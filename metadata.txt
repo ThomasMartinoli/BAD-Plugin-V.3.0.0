@@ -15,10 +15,10 @@ hasProcessingProvider=no
 changelog=
 
 	3.0.0
-	-Added the possibility to search and download Sentinel-2 L2A, both single images and mosaicking of more images, directly from the plugin
-        -Added indexes to feature extraction 
-        -Expanded the costumization of OWA parameters.
-        Major contributions by Silvia Macchi and Sveva Zanetti.
+	Added the possibility to search and download Sentinel-2 L2A, both single images and mosaicking of more images, directly from the plugin.
+    Added indexes to feature extraction. 
+    Expanded the costumization of OWA parameters.
+    Major contributions by Silvia Macchi and Sveva Zanetti.
 
 	2.0.0
 	Includes complete region growing, preview, validation, agreement map, and export tools.
